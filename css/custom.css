@@ -12,24 +12,30 @@ body {
 .ul-color {
     color: rgb(227, 227, 227);
 }
-.section-hf{
+
+.section-hf {
     background-color: #776B5D;
 }
 
-.section-index{
+.section-index {
     background-color: #F5F7F8;
 }
 
-.section-portfolio{
+.section-portfolio {
     background-color: #F3EEEA;
 }
 
-.section-about{
+.section-about {
     background-color: #F5F7F8;
 }
 
-.section-contact{
+.section-contact {
     background-color: #F3EEEA;
+}
+
+.my-pic {
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
 }
 
 main {
