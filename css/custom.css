@@ -13,24 +13,33 @@ body {
     color: rgb(227, 227, 227);
 }
 
+.headerimg {
+    background-position: center;
+    background-size: cover;
+}
 .section-hf {
-    background-color: #776B5D;
+    background-color: transparent;
+    margin-bottom: -75px;
 }
 
 .section-index {
-    background-color: #F5F7F8;
+    background-color: #161a30fb;
+    color: rgb(227, 227, 227);
 }
 
 .section-portfolio {
-    background-color: #F3EEEA;
+    background-color: #161a30f9;
+    color: rgb(227, 227, 227);
 }
 
 .section-about {
-    background-color: #F5F7F8;
+    background-color: #161A30;
+    color: rgb(227, 227, 227);
 }
 
 .section-contact {
-    background-color: #F3EEEA;
+    background-color: #161a30f9;
+    color: rgb(227, 227, 227);
 }
 
 .my-pic {
@@ -63,7 +72,7 @@ header {
 }
 
 footer {
-    background-color: #776B5D;
+    background-color: #3c515f;
 
 }
 
